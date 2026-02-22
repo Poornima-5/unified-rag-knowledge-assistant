@@ -19,13 +19,13 @@ A modular Retrieval-Augmented Generation (RAG) system built with:
 ## Architecture
 
 Frontend (Streamlit)  
-⬇  
+      ⬇  
 Backend (FastAPI)  
-⬇  
+      ⬇  
 FAISS per workspace  
-⬇  
+      ⬇  
 MMR Retriever  
-⬇  
+      ⬇  
 Groq LLM  
 
 ## Setup Instructions
